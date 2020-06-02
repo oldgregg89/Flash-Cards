@@ -1,0 +1,10 @@
+.answer {
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  text-decoration: underline;
+  color: green;
+}
+
