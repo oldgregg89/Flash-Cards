@@ -2,7 +2,7 @@
   display: none;
 }
 
-.click {
+h3 {
   cursor: pointer;
   text-decoration: underline;
   color: green;
